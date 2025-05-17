@@ -246,6 +246,7 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [JobRack](https://jobrack.eu/) | Eastern European job board for remote roles.
 - [Crossover](https://www.crossover.com/jobs) | High-level remote job board.
 - [Flexa Careers](https://flexa.careers/) | Remote work platform focusing on flexibility.
+- [Remoseal](https://www.remoseal.com) | General Remote Jobs platform
 
 ## Freelancer
 
